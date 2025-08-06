@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Nanci!
 
-<!--
-**Nanciive/Nanciive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a passionate developer with interests in:
+- Web development
+- Data science
+- Open-source projects
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- Email: Lyingnan2022@163.com
+- Instagram: https://www.instagram.com/kfcvvvvvm50?igsh=MTZ6cTNnaDBwYnMyYg==
+- LinkedIn: Nanci Li (https://www.linkedin.com/in/yingnan-li-44aa9433a/)
+
+📈 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanciive&show_icons=true&theme=default)
