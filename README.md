@@ -20,25 +20,25 @@
 
 ### 🌌 GoldSpace
 🛠️ 一Goldspace is a service design aimed at helping individuals on probation reintegrate into society more effectively.  
-🔗 [查看项目](#) <!-- ← https://nanciive.github.io/Gold-Space/ -->
+🔗 https://nanciive.github.io/Gold-Space/
 
 ---
 
 ### 🥋 WUDANG
 ⚔️ An interactive mini-program inspired by Taoist culture, combining offline venues with gamified experiences like "collecting ritual artifacts" to enhance visitor understanding and engagement with Wudang culture.  
-🔗 [查看项目](#) <!-- ←  https://nanciive.github.io/WUDANG/ -->
+🔗 https://nanciive.github.io/WUDANG/
 
 ---
 
 ### 🕒 随时随瑞
 📱   
-🔗 [查看项目](#)<!-- ← https://nanciive.github.io/-/ -->
+🔗 https://nanciive.github.io/-/
 
 ---
 
 ### 🎨 Portfolio
 💼 
-🔗 [访问我的作品集](#)<!-- ← https://nanciive.github.io/Nanci/ -->
+🔗 https://nanciive.github.io/Nanci/
 
 ---
 
